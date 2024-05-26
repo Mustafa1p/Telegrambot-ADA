@@ -38,12 +38,12 @@ Compilation and Execution
 	•	Navigate to your project directory.
 	•	Use the GNAT compiler to compile the code:
 
-gnatmake telebot.adb
+gnatmake tele.adb
 
 Run the Bot:
 	•	Execute the compiled program:
 
-./telebot
+./tele
 
 
 This ada code was developer by Mustafa ip | First ada bot in wolrd for telegram search engine 
