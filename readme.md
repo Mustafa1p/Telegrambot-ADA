@@ -43,7 +43,7 @@ gnatmake telebot.adb
 Run the Bot:
 	•	Execute the compiled program:
 
-./telegram_bot
+./telebot
 
 
 This ada code was developer by Mustafa ip | First ada bot in wolrd for telegram search engine 
